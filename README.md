@@ -23,7 +23,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d0709,50:ff1f2d,100:0d0709" width="100%">
 </p>
 
-## 𝟏. 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐑 𝐓𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏
+<h2 align="center">𝟏. 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐑 𝐓𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=22&duration=3000&pause=1000&color=FF1F2D&center=true&vCenter=true&width=600&height=50&lines=GENERE+TON+CODE;CONNECTE+TON+WHATSAPP" alt="Connexion" />
@@ -58,7 +58,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d0709,50:ff1f2d,100:0d0709" width="100%">
 </p>
 
-## 𝟐. 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐄𝐒
+<h2 align="center">𝟐. 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐄𝐒</h2>
 
 <details open>
 <summary>💬 <b>COMMENT UTILISER LE BOT</b></summary>
@@ -77,7 +77,7 @@ Dans n'importe quelle discussion WhatsApp (tu peux même t'écrire à toi-même)
   <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0d0709,50:ff1f2d,100:0d0709" width="100%">
 </p>
 
-## 𝟑. 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 & 𝐒𝐔𝐏𝐏𝐎𝐑𝐓
+<h2 align="center">𝟑. 𝐂𝐎𝐍𝐓𝐀𝐂𝐓 & 𝐒𝐔𝐏𝐏𝐎𝐑𝐓</h2>
 
 <details open>
 <summary>🛟 <b>UNE QUESTION ? UN SOUCI ?</b></summary>
