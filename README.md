@@ -97,15 +97,6 @@ Dans n'importe quelle discussion WhatsApp (tu peux même t'écrire à toi-même)
 
 </details>
 
-<details>
-<summary>⚠️ <b>AVERTISSEMENT</b></summary>
-
-<br>
-
-- ❗ ARIEL-BOT n'est **pas affilié à WhatsApp Inc.**
-- 🚫 Un mauvais usage peut entraîner le blocage de ton compte. Utilise-le avec responsabilité.
-
-</details>
 
 <br>
 
