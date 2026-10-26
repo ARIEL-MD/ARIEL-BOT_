@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner-ariel-bot.svg" width="100%" alt="ARIEL-BOT">
+  <img src="banner-ariel-bot.webp" width="100%" alt="ARIEL-BOT">
 </div>
 
 <br>
